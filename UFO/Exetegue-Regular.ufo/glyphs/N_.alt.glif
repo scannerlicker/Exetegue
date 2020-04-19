@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.alt" format="2">
+  <advance width="310"/>
+  <outline>
+    <contour>
+      <point x="104.5" y="393.5" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="595" type="line"/>
+      <point x="200" y="595" type="line"/>
+      <point x="200" y="387" type="line" smooth="yes"/>
+      <point x="200" y="287"/>
+      <point x="208.5" y="213"/>
+      <point x="208.5" y="213" type="curve"/>
+      <point x="206.5" y="212" type="line"/>
+      <point x="105" y="595" type="line"/>
+      <point x="40" y="595" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="219.5" type="line" smooth="yes"/>
+      <point x="110" y="298.5"/>
+      <point x="102.5" y="392.5"/>
+      <point x="102.5" y="392.5" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="95" y="0"/>
+  <guideline angle="90" x="215" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,0</string>
+  </dict>
+  </lib>
+</glyph>

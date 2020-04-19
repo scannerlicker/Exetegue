@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="300"/>
+  <unicode hex="0134"/>
+  <outline>
+    <component base="J.alt"/>
+    <component base="circumflex" xOffset="75"/>
+  </outline>
+  <guideline angle="0" x="0" y="125"/>
+  <guideline angle="90" x="25" y="0"/>
+  <guideline angle="90" x="125" y="0"/>
+  <guideline angle="90" x="175" y="0"/>
+  <guideline angle="90" x="275" y="0"/>
+  <guideline angle="90" x="50" y="0"/>
+  <guideline angle="90" x="250" y="0"/>
+  <guideline angle="90" x="150" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,0</string>
+  </dict>
+  </lib>
+</glyph>

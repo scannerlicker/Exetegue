@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla" format="2">
+  <advance width="300"/>
+  <unicode hex="00C7"/>
+  <outline>
+    <component base="C.alt" yOffset="150"/>
+    <component base="cedilla"/>
+  </outline>
+  <guideline angle="0" x="0" y="125"/>
+  <guideline angle="90" x="25" y="0"/>
+  <guideline angle="90" x="125" y="0"/>
+  <guideline angle="90" x="175" y="0"/>
+  <guideline angle="90" x="275" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.977,1,0</string>
+  </dict>
+  </lib>
+</glyph>

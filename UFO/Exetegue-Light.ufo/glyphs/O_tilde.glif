@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="2">
+  <advance width="300"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <component base="O.alt"/>
+    <component base="tilde"/>
+  </outline>
+  <guideline angle="0" x="0" y="610"/>
+  <guideline angle="90" x="195" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.977,1,0</string>
+  </dict>
+  </lib>
+</glyph>

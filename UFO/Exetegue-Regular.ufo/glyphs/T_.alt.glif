@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.alt" format="2">
+  <advance width="240"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="155" y="595" type="line"/>
+      <point x="85" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="535.5" type="line"/>
+      <point x="227.5" y="535.5" type="line"/>
+      <point x="227.5" y="595" type="line"/>
+      <point x="155" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="12.5" y="535.5" type="line"/>
+      <point x="85" y="535.5" type="line"/>
+      <point x="85" y="595" type="line"/>
+      <point x="12.5" y="595" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,0</string>
+  </dict>
+  </lib>
+</glyph>

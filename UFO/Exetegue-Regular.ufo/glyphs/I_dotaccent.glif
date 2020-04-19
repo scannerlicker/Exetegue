@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="2">
+  <advance width="150"/>
+  <unicode hex="0130"/>
+  <outline>
+    <component base="I.alt"/>
+    <component base="dotaccent" xOffset="-75"/>
+  </outline>
+  <guideline angle="90" x="-50" y="0"/>
+  <guideline angle="90" x="150" y="0"/>
+  <guideline angle="90" x="50" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,0</string>
+  </dict>
+  </lib>
+</glyph>

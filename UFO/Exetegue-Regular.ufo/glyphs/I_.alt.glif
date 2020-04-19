@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.alt" format="2">
+  <advance width="150"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="595" type="line"/>
+      <point x="40" y="595" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="25" y="0"/>
+  <guideline angle="90" x="95" y="0"/>
+  <guideline angle="90" x="55" y="0"/>
+  <guideline angle="90" x="125" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,0</string>
+  </dict>
+  </lib>
+</glyph>

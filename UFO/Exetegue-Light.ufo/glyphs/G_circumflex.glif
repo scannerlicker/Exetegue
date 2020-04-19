@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcircumflex" format="2">
+  <advance width="300"/>
+  <unicode hex="011C"/>
+  <outline>
+    <component base="G.alt"/>
+    <component base="circumflex"/>
+  </outline>
+  <guideline angle="0" x="0" y="125"/>
+  <guideline angle="90" x="25" y="0"/>
+  <guideline angle="90" x="125" y="0"/>
+  <guideline angle="90" x="175" y="0"/>
+  <guideline angle="90" x="275" y="0"/>
+  <guideline angle="90" x="50" y="0"/>
+  <guideline angle="90" x="250" y="0"/>
+  <guideline angle="90" x="150" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,0</string>
+  </dict>
+  </lib>
+</glyph>

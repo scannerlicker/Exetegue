@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="2">
+  <advance width="240"/>
+  <unicode hex="0118"/>
+  <outline>
+    <component base="E.alt" yOffset="150"/>
+    <component base="ogonek" xOffset="27"/>
+  </outline>
+  <guideline angle="0" x="0" y="387"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,0</string>
+  </dict>
+  </lib>
+</glyph>

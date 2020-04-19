@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="2">
+  <advance width="290"/>
+  <unicode hex="015A"/>
+  <outline>
+    <component base="S.alt"/>
+    <component base="acute" xOffset="-5"/>
+  </outline>
+  <guideline angle="0" x="0" y="625"/>
+  <guideline angle="0" x="0" y="635"/>
+  <guideline angle="0" x="0" y="105"/>
+  <guideline angle="0" x="0" y="115"/>
+  <guideline angle="90" x="30" y="0"/>
+  <guideline angle="90" x="230" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,0</string>
+  </dict>
+  </lib>
+</glyph>

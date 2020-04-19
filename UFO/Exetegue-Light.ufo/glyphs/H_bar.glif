@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="300"/>
+  <unicode hex="0126"/>
+  <outline>
+    <component base="H.alt"/>
+    <contour>
+      <point x="30" y="485" type="line"/>
+      <point x="30" y="510" type="line"/>
+      <point x="270" y="510" type="line"/>
+      <point x="270" y="485" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="35" y="0"/>
+  <guideline angle="90" x="235" y="0"/>
+  <guideline angle="90" x="35" y="0"/>
+  <guideline angle="90" x="235" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,0</string>
+  </dict>
+  </lib>
+</glyph>

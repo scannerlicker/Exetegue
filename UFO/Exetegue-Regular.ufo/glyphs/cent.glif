@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="2">
+  <advance width="300"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <component base="C.alt" yOffset="72.5"/>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="185" y="72.5" type="line"/>
+      <point x="115" y="72.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="667.5" type="line"/>
+      <point x="185" y="667.5" type="line"/>
+      <point x="185" y="745" type="line"/>
+      <point x="115" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,0</string>
+  </dict>
+  </lib>
+</glyph>

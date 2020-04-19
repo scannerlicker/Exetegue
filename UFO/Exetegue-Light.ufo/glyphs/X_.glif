@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+  <advance width="300"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="260" y="740" type="line"/>
+      <point x="220" y="740" type="line"/>
+      <point x="164" y="511" type="line" smooth="yes"/>
+      <point x="155" y="473"/>
+      <point x="152" y="436"/>
+      <point x="152" y="436" type="curve"/>
+      <point x="150" y="436" type="line"/>
+      <point x="150" y="436"/>
+      <point x="147" y="473"/>
+      <point x="138" y="511" type="curve" smooth="yes"/>
+      <point x="82" y="740" type="line"/>
+      <point x="40" y="740" type="line"/>
+      <point x="127" y="389" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="131" y="245" type="line" smooth="yes"/>
+      <point x="139" y="280"/>
+      <point x="150" y="343"/>
+      <point x="150" y="343" type="curve"/>
+      <point x="152" y="343" type="line"/>
+      <point x="152" y="343"/>
+      <point x="163" y="280"/>
+      <point x="171" y="245" type="curve" smooth="yes"/>
+      <point x="230" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="172" y="389" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="591"/>
+  <guideline angle="0" x="0" y="213"/>
+  <guideline angle="0" x="0" y="468"/>
+  <guideline angle="0" x="0" y="320"/>
+  <guideline angle="0" x="0" y="740"/>
+  <guideline angle="90" x="30" y="0"/>
+  <guideline angle="90" x="270" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,0</string>
+  </dict>
+  </lib>
+</glyph>

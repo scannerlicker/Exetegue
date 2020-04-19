@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+  <advance width="300"/>
+  <unicode hex="0051"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="130" y="-65" type="line"/>
+      <point x="170" y="-65" type="line"/>
+      <point x="170" y="20" type="line"/>
+      <point x="130" y="20" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="125"/>
+  <guideline angle="90" x="25" y="0"/>
+  <guideline angle="90" x="125" y="0"/>
+  <guideline angle="90" x="175" y="0"/>
+  <guideline angle="90" x="275" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,0</string>
+  </dict>
+  </lib>
+</glyph>

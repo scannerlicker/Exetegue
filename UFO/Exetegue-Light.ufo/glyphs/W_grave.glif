@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wgrave" format="2">
+  <advance width="380"/>
+  <unicode hex="1E80"/>
+  <outline>
+    <component base="W.alt"/>
+    <component base="grave" xOffset="40"/>
+  </outline>
+  <guideline angle="0" x="0" y="280"/>
+  <guideline angle="0" x="0" y="460"/>
+  <guideline angle="0" x="0" y="217"/>
+  <guideline angle="0" x="0" y="167"/>
+  <guideline angle="90" x="75" y="0"/>
+  <guideline angle="90" x="275" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,0</string>
+  </dict>
+  </lib>
+</glyph>

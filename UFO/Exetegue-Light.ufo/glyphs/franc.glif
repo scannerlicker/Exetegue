@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+  <advance width="220"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <component base="F"/>
+    <component base="hyphen" xOffset="-20" yOffset="-180"/>
+  </outline>
+  <guideline angle="0" x="0" y="382"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,0</string>
+  </dict>
+  </lib>
+</glyph>

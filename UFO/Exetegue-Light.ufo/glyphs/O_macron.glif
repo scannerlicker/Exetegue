@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="2">
+  <advance width="300"/>
+  <unicode hex="014C"/>
+  <outline>
+    <component base="O.alt"/>
+    <component base="macron"/>
+  </outline>
+  <guideline angle="0" x="0" y="125"/>
+  <guideline angle="90" x="65" y="0"/>
+  <guideline angle="90" x="165" y="0"/>
+  <guideline angle="90" x="215" y="0"/>
+  <guideline angle="90" x="315" y="0"/>
+  <guideline angle="90" x="75" y="0"/>
+  <guideline angle="90" x="275" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,0</string>
+  </dict>
+  </lib>
+</glyph>

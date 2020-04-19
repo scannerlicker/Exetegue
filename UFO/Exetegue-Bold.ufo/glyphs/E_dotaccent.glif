@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="2">
+  <advance width="240"/>
+  <unicode hex="0116"/>
+  <outline>
+    <component base="E.alt"/>
+    <component base="dotaccent" xOffset="-25"/>
+  </outline>
+  <guideline angle="0" x="0" y="387"/>
+  <guideline angle="90" x="-5" y="0"/>
+  <guideline angle="90" x="195" y="0"/>
+  <guideline angle="90" x="95" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,0</string>
+  </dict>
+  </lib>
+</glyph>
