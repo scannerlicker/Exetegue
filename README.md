@@ -1,5 +1,5 @@
 ```
-![Exetegue Banner](/img/exetegue-sm.jpg)
+![Exetegue Banner](https://github.com/scannerlicker/Exetegue/blob/master/img/exetegue-sm.jpg)
 ```
 
 # Exetegue
