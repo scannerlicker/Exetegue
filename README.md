@@ -1,6 +1,4 @@
-```
 ![Exetegue Banner](https://raw.githubusercontent.com/scannerlicker/Exetegue/master/img/exetegue-sm.jpg)
-```
 
 # Exetegue
  ## Repository for the typeface Exetegue
