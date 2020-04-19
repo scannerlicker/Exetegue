@@ -15,5 +15,5 @@ Initial commit.
 
 ## License
 
-Exetegue is licensed under [OFL 1.1][https://opensource.org/licenses/OFL-1.1]
+Exetegue is licensed under [OFL 1.1](https://opensource.org/licenses/OFL-1.1)
 
