@@ -1,3 +1,7 @@
+```
+![Exetegue Banner](/img/exetegue-sm.jpg)
+```
+
 # Exetegue
  ## Repository for the typeface Exetegue
 
